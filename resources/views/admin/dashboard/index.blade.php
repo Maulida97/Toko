@@ -1,7 +1,7 @@
-@extends('admin.layout')
+{{-- @extends('admin.layout')
 
-@section('content')
+@section('content') --}}
 
 <h3>Page Dashboard</h3>
 
-@stop
+{{-- @stop --}}
